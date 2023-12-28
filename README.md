@@ -15,6 +15,6 @@ Elevate your certificate creation experience with this versatile certificate gen
 * user can adjust position of the header and the body
 
 #### NOTE
-* for better perfomance and efficiency and performance, use plain certificate backgrounds.
+* for better perfomance and efficiency, use plain certificate backgrounds.
 
 
